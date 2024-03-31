@@ -1,0 +1,36 @@
+img{
+    width: 340px;
+    height: 340px;
+}
+
+.position{
+    display: flex;
+}
+
+.btn_buy{
+    width: 68px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.btn_confirm{
+    width: 98px;
+    height: 40px;
+    margin-top: 20px;
+}
+
+.user_info{
+    display: none;
+}
+
+span{
+    display: none;
+    color: red;
+}
+.valid_fn, .valid_NP, .valid_quantity, .valid_s,.valid_pay{
+    display: none;
+    color: red;
+}
+
+.output, .wrapper{
+    margin-left: 30px;
+}
