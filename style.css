@@ -26,7 +26,7 @@ span{
     display: none;
     color: red;
 }
-.valid_fn, .valid_NP, .valid_quantity, .valid_s,.valid_pay{
+.valid_fn, .valid_NP, .valid_quantity, .valid_s,.valid_pay, .valid_phone, .valid_email{
     display: none;
     color: red;
 }
